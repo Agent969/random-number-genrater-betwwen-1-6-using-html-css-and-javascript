@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#button{
+    font-size: 3em;
+    padding: 5px 15px;
+    background-color: chartreuse;
+    border-radius: 15px;
+    border-color: rgb(255, 0, 55);
+}
+#label{
+    font-size: 3em;
+}
